@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [githendu.netlify.app](githendu.netlify.app)
+- 👨‍💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
 
 - 📫 How to reach me **antonygithendu@gmail.com**
 
