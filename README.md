@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonygn" alt="antonygn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/antony_githendu" target="blank"><img src="https://img.shields.io/twitter/follow/antony_githendu?logo=twitter&style=for-the-badge" alt="antony_githendu" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning, Flutter**
 
@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/antony-githendu-b72ab51b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-githendu-b72ab51b1" height="30" width="40" /></a>
 <a href="https://instagram.com/antony_githendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antony_githendu" height="30" width="40" /></a>
 <a href="https://dribbble.com/antonygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="antonygn" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
