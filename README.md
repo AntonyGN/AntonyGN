@@ -5,14 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonygn" alt="antonygn" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Machine Learning, Flutter**
+- 👨🏾‍💻 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web development**
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
+- 💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
 
 - 📫 How to reach me **antonygithendu@gmail.com**
 
