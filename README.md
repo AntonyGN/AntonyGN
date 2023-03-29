@@ -2,19 +2,19 @@
 <h3 align="center">A passionate developer from Kenya</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonygn&label=Profile%20views&color=0e75b6&style=flat" alt="antonygn" /> </p>
 
- ✓ 👨🏾‍💻 I’m currently learning **Machine Learning**
+ - 👨🏾‍💻 I’m currently learning **Machine Learning**
 
- ✓ 👯 I’m looking to collaborate on **Web development**
+ - 👯 I’m looking to collaborate on **Web development**
 
- ✓ 🤝 I’m looking for help with **Artificial Intelligence**
+ - 🤝 I’m looking for help with **Artificial Intelligence**
 
- ✓ 💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
+ - 💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
  
- ✓ ☎️ Reach me via **0790295419**
+ - ☎️ Reach me via **0790295419**
 
- ✓ 📫 Email **antonygithendu@gmail.com**
+ - 📫 Email **antonygithendu@gmail.com**
 
- ✓ ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+ - ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
