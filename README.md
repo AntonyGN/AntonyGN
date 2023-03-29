@@ -9,8 +9,10 @@
  - 🤝 I’m looking for help with **Artificial Intelligence**
 
  - 💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
+ 
+ - ☎️ Reach me via **0790295419**
 
- - 📫 How to reach me **antonygithendu@gmail.com**
+ - 📫 Email **antonygithendu@gmail.com**
 
  - ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
