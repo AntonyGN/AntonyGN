@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/antony_githendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antony_githendu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antony-githendu-b72ab51b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-githendu-b72ab51b1" height="30" width="40" /></a>
-<a href="https://dribbble.com/antonygn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="antonygn" height="30" width="40" /></a>
+
 
 </p>
 
