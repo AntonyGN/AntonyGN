@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3FF67D&width=1000&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Antony+Githendu;A+passionate+developer+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Reach+me+via%3A+0790295419" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=3FF67D&width=1000&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Antony+Githendu;A+passionate+developer+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Reach+me+via%3A+0790295419" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
