@@ -1,20 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antony Githendu</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonygn&label=Profile%20views&color=0e75b6&style=flat" alt="antonygn" /> </p>
-
- - 👨🏾‍💻 I’m currently learning **Machine Learning**
-
- - 👯 I’m looking to collaborate on **Web development**
-
- - 🤝 I’m looking for help with **Artificial Intelligence**
-
- - 💻 All of my projects are available at [githendu](https://githendu.netlify.app/).
- 
- - ☎️ Reach me via **0790295419**
-
- - 📫 Email **antonygithendu@gmail.com**
-
-  ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=1400&height=150&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Antony+Githendu;A+passionate+developer+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;I+am+always+eager+to+share+my+knowledge+and+expertise+with+others;Reach+me+via%3A+0790295419" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
