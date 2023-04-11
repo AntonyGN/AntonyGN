@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&width=1000&height=100&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Antony+Githendu;A+passionate+developer+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Reach+me+via%3A+0790295419" alt="Typing SVG" /></a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://twitter.com/antony_githendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antony_githendu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antony-githendu-b72ab51b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-githendu-b72ab51b1" height="30" width="40" /></a>
